@@ -1,0 +1,10 @@
+@import "styles/constants";
+@import "styles/mixins";
+@import "styles/typography";
+@import "styles/code";
+@import "styles/scrollbar";
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import "styles/angular-tree-component.css";
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
