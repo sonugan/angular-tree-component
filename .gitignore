@@ -46,7 +46,6 @@ npm-debug.log
 /src/*/__build__/
 /__build__/**
 /public/dist/
-/src/*/dist/
 .webpack.json
 
 # Doc #
@@ -56,7 +55,6 @@ npm-debug.log
 .idea/
 *.swp
 
-/dist
 
 compiled
 
